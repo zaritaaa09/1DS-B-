@@ -1,0 +1,27 @@
+h1{
+    font-family:"Tahoma";
+    position: static;
+    text-align: center;
+    border:#663366 10px;
+    margin: Opx;
+    color:#000;
+}
+    
+    h4 {
+    font-family:"Tahoma";
+    position:static;
+    text-align:center;
+    border: #663366 5px;
+    color:#000;
+    margin: 0px;
+    }
+    img {
+        position:static;
+        width: 240px;
+        height:194px;
+    }
+        
+        .linea{
+        width:1155px;
+        height:2px;
+        }

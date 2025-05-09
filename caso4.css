@@ -1,0 +1,34 @@
+/* estilos de etiquetas*/
+body{
+    margin: 10px;
+    padding: Opx;
+    text-align: left;
+    font-family: tahoma;
+    font-size: 12px;
+    color: black;
+    line-height: 14px;
+}
+    
+    section {
+    width: 300px;
+    
+    text-decoration:underline;
+    color:#519FC3;
+    }
+    
+    /*Estilos de Identificación*/
+    #marco1{
+        background-image: url(images/amistad.jpg) bottom left no-repeat;
+    margin:12px 10px 15px 19px;
+    }
+    #marco2{
+        margin:14px Opx Opx 90px;
+    }
+        /*Estilos de Clase*/
+        .linea{
+        width:250px;
+        height:1px;
+        }
+        .linkt{
+        float: right;
+    }

@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+* {
+  color: blue;  
+  text-align: center;
+  font-size: 1.5em;
+}
+* [lang=en] {
+   color: #ff0000; 
+}

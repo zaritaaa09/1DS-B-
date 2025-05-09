@@ -1,0 +1,12 @@
+p{
+    color:blue;
+}
+p{
+    color:#0000FF;
+}
+p{
+    color:rgb(0,0,255);
+}
+p{
+    color:hsl(240,0%,100%);
+}

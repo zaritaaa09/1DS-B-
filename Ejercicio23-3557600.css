@@ -1,0 +1,22 @@
+section {
+    width: 550px;
+    height: 150px;
+    border-style: dotted;
+}
+section {
+    width: 550px;
+    height: 150px;
+    border-style: 5px solid black;
+}
+section {
+    width: 550px;
+    height: 150px;
+    border-left: 6px solid blue;
+    background-color: beige;
+}
+section {
+    width: 550px;
+    height: 150px;
+    border-style: 2px solid black;
+    border-radius: 15px;
+}

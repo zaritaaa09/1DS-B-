@@ -1,0 +1,10 @@
+p{
+    color: #00f;
+    font-family: tahoma;
+    size: 12pt;
+}
+h1, h2, h3 {
+    color: red;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}

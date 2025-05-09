@@ -1,0 +1,15 @@
+section {
+    border-color:black;
+}
+
+section {
+    border-color:#000000;
+}
+
+section {
+    border-color:rgb(0,0,0);
+}
+
+section {
+    border-color:hsl(0,0%,0%);
+}

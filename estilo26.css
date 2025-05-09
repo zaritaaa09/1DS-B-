@@ -1,0 +1,8 @@
+#espaciado {
+    letter-spacing: 9px;
+    font-size: 12px;
+}
+
+section>p{
+    line-height: 0.3;
+}

@@ -1,0 +1,25 @@
+section{
+    width: 385px;
+    height: 430px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+img {
+   width: 170px;
+   height: 194px;
+   margin: 10px; 
+}
+
+section{
+    width: 385px;
+    height: 430px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+img {
+   width: 170px;
+   height: 194px;
+   margin: 20px 40px; 
+}

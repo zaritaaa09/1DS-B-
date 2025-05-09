@@ -1,0 +1,9 @@
+body{
+    background-color: #0e04a1; /*define color de fondo*/
+}
+p{
+   /* font-family: 'Tahoma'; 
+    font-size:24pt;  */      
+    font-style:inherit;    /*define el texto en negrita*/
+    text-align:center;     /*define alineación centrada de texto*/
+}
